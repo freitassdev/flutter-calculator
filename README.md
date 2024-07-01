@@ -1,16 +1,11 @@
-# calculator
+# Flutter Calculator
 
-A new Flutter project.
+This is my first flutter project, a mobile calculator for android and ios.
 
-## Getting Started
+## How to Run
 
-This project is a starting point for a Flutter application.
+- Make sure you have flutter installed.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Open the project in visual studio code and run "flutter pub get" in terminal.
+Select your device (emulator or usb connected phone) and go to debug section.
+Run the project in the debug section.
